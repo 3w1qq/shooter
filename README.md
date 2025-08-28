@@ -7,7 +7,7 @@
 
 Цель игры заключается в том, чтобы сбить 10 НЛО и не задеть врагов, либо астероиды. Всего 3 жизни -- от одного касания по врагу снимается одна жизнь.
 
-![Скриншот](https://raw.githubusercontent.com/3w1qq/shooter/refs/heads/main/screen%20shooter%20.png?token=GHSAT0AAAAAADJVIYRH43KCXYCVR3C7Z2NU2FQS6DQ)
+![Скриншот](https://raw.githubusercontent.com/3w1qq/shooter/refs/heads/main/screen%20shooter%20.png)
 
 ### Пример кода:
 
